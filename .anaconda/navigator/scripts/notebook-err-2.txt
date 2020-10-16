@@ -1,0 +1,31 @@
+[I 19:27:44.244 NotebookApp] JupyterLab extension loaded from C:\Users\frogi\Anaconda3\lib\site-packages\jupyterlab
+[I 19:27:44.245 NotebookApp] JupyterLab application directory is C:\Users\frogi\Anaconda3\share\jupyter\lab
+[I 19:27:44.263 NotebookApp] Serving notebooks from local directory: C:\Users\frogi
+[I 19:27:44.263 NotebookApp] The Jupyter Notebook is running at:
+[I 19:27:44.263 NotebookApp] http://localhost:8888/?token=a0e61df707be21529e3fe502867a6c541a50791b1c0ceeed
+[I 19:27:44.263 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 19:27:44.397 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=a0e61df707be21529e3fe502867a6c541a50791b1c0ceeed
+[I 19:27:44.735 NotebookApp] Accepting one-time-token-authenticated connection from ::1
+[I 19:50:12.510 NotebookApp] Creating new notebook in /CursoPython
+[I 19:50:12.579 NotebookApp] Writing notebook-signing key to C:\Users\frogi\AppData\Roaming\jupyter\notebook_secret
+[I 19:50:19.389 NotebookApp] Kernel started: 8fbc499e-33a8-4772-acf5-94a9a4be7994
+[I 19:50:26.010 NotebookApp] Adapting to protocol v5.1 for kernel 8fbc499e-33a8-4772-acf5-94a9a4be7994
+[I 19:52:18.800 NotebookApp] Saving file at /CursoPython/Untitled.ipynb
+[I 19:54:19.168 NotebookApp] Saving file at /CursoPython/Untitled.ipynb
+[I 19:56:18.769 NotebookApp] Starting buffering for 8fbc499e-33a8-4772-acf5-94a9a4be7994:aa357af4ef9f4e068557b04486bcd1e3
+[I 19:56:19.096 NotebookApp] Kernel restarted: 8fbc499e-33a8-4772-acf5-94a9a4be7994
+[I 19:56:19.115 NotebookApp] Saving file at /CursoPython/Untitled.ipynb
+[I 19:56:20.343 NotebookApp] Adapting to protocol v5.1 for kernel 8fbc499e-33a8-4772-acf5-94a9a4be7994
+[I 19:56:20.345 NotebookApp] Restoring connection for 8fbc499e-33a8-4772-acf5-94a9a4be7994:aa357af4ef9f4e068557b04486bcd1e3
+[I 19:56:20.345 NotebookApp] Replaying 7 buffered messages
+[I 19:57:26.159 NotebookApp] Kernel shutdown: 8fbc499e-33a8-4772-acf5-94a9a4be7994
+[W 19:57:26.171 NotebookApp] delete /CursoPython/Untitled.ipynb
+[W 19:58:05.957 NotebookApp] Notebook CursoPython/Fase 1 - Fundamentos de programacion/Tema 01 - Introduccion informal/Leccion 1 - Numeros.ipynb is not trusted
+[I 19:58:06.236 NotebookApp] Kernel started: aff431d7-eb56-45c0-9326-827777e2d7f6
+[I 19:58:07.776 NotebookApp] Adapting to protocol v5.1 for kernel aff431d7-eb56-45c0-9326-827777e2d7f6
+[I 20:00:07.173 NotebookApp] Saving file at /CursoPython/Fase 1 - Fundamentos de programacion/Tema 01 - Introduccion informal/Leccion 1 - Numeros.ipynb
+[I 11:10:46.975 NotebookApp] Starting buffering for aff431d7-eb56-45c0-9326-827777e2d7f6:ebb18f6eb6bd4fd28c663f31be744590
